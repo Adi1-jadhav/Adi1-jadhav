@@ -1,8 +1,8 @@
-👋 Hi, I'm Aditya Ranjit Jadhav
+## 👋 Hi, I'm Aditya Ranjit Jadhav
 
-🎓 Computer Engineering Student
-💻 Java & Backend Developer
-🤖 AI & Machine Learning Enthusiast
+- 🎓 Computer Engineering Student
+- 💻 Java & Backend Developer
+- 🤖 AI & Machine Learning Enthusiast
 
 
 - I am a passionate and growth-driven developer with strong foundations in Core Java, Data Structures & Algorithms, Object-Oriented Programming, and Backend Development.
@@ -10,23 +10,23 @@
 - I enjoy building scalable systems, solving real-world problems, and integrating machine learning into web applications.
 
 
-**🚀 About Me**
+## 🚀 About Me
 
-🎓 B.E. in Computer Engineering (2023–2026)
+- 🎓 B.E. in Computer Engineering (2023–2026)
 
-💼 Java Intern – SDK Infotech Pvt. Ltd.
+- 💼 Java Intern – SDK Infotech Pvt. Ltd.
 
-🧠 Strong in OOP, Multithreading, Collections & JDBC
+- 🧠 Strong in OOP, Multithreading, Collections & JDBC
 
-🔍 Interested in Backend Engineering & System Design
+- 🔍 Interested in Backend Engineering & System Design
 
-🤖 Exploring AI-powered intelligent applications
+- 🤖 Exploring AI-powered intelligent applications
 
-📍 Pune, Maharashtra, India
+- 📍 Pune, Maharashtra, India
 
 
-**🛠️ Tech Stack
-💻 Languages**
+## 🛠️ Tech Stack
+## 💻 Languages
 
 -  Java
 -  Python
