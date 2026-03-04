@@ -28,18 +28,29 @@
 **🛠️ Tech Stack
 💻 Languages**
 
-- Java, - Python, - SQL, - JavaScript, - HTML, - CSS .
+-  Java
+-  Python
+-  SQL
+-  C++
+-  JavaScript
+-  HTML
+-  CSS .
 
 ⚙️ Frameworks & Technologies
 
-Flask Spring JDBC MySQL MongoDB
-Apache Spark Databricks
+- Flask
+- Spring
+- JDBC
+- MySQL
+- MongoDB
+- Apache Spark
+- Databricks
 
 📊 Libraries & Tools
 
-NumPy Pandas Scikit-learn TensorFlow
-Git IntelliJ VS Code Eclipse
-Linux AWS Power BI Tableau
+- NumPy , Pandas , Scikit-learn,  TensorFlow
+- Git IntelliJ VS Code Eclipse
+- Linux AWS Power BI Tableau
 
 📚 Core Strengths
 
