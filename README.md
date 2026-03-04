@@ -109,7 +109,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Adi1-jadhav)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact)
 
 
 
