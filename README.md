@@ -36,7 +36,7 @@
 -  HTML
 -  CSS .
 
-⚙️ Frameworks & Technologies
+## ⚙️ Frameworks & Technologies
 
 - Flask
 - Spring
@@ -46,13 +46,13 @@
 - Apache Spark
 - Databricks
 
-📊 Libraries & Tools
+## 📊 Libraries & Tools
 
 - NumPy , Pandas , Scikit-learn,  TensorFlow
 - Git IntelliJ VS Code Eclipse
 - Linux AWS Power BI Tableau
 
-📚 Core Strengths
+## 📚 Core Strengths
 
 ✔ Data Structures & Algorithms
 ✔ Object-Oriented Programming
@@ -61,11 +61,11 @@
 ✔ RESTful API Development
 
 
-**🌟 Featured Projects**
+## 🌟 Featured Projects
 
-**🔹 Helping Hand Intelligent System**
+## 🔹 Helping Hand Intelligent System**
 
-**Tech: Python, Flask, MySQL, Machine Learning**
+## Tech: Python, Flask, MySQL, Machine Learning
 
 - Built a full-stack donation platform connecting NGOs and donors
 
@@ -79,9 +79,9 @@
 
 
 
-**🔹 Payroll Management System**
+## 🔹 Payroll Management System
 
-**Tech: Java, JDBC, MySQL**
+## Tech: Java, JDBC, MySQL
 
 - Automated salary calculation system for full-time & part-time employees
 
