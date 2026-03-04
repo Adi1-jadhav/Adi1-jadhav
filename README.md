@@ -105,11 +105,12 @@
 
 
 
-## 📊 GitHub Analytics
+## 🚀 Current Focus
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Adi1-jadhav)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact)
+- Mastering Data Structures & Algorithms
+- Building scalable backend systems in Java
+- Designing AI-powered full-stack applications
+- Preparing for product-based company interviews
 
 
 
