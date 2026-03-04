@@ -71,15 +71,15 @@ Linux AWS Power BI Tableau
 
 **Tech: Java, JDBC, MySQL**
 
--Automated salary calculation system for full-time & part-time employees
+- Automated salary calculation system for full-time & part-time employees
 
--Applied OOP principles for scalable system design
+- Applied OOP principles for scalable system design
 
--Integrated MySQL using JDBC
+- Integrated MySQL using JDBC
 
--Implemented CSV report generation for HR analytics
+- Implemented CSV report generation for HR analytics
 
--Built GUI with role-based access control
+- Built GUI with role-based access control
 
 🔗 https://github.com/Adi1-jadhav/Payroll-Management-System
 
@@ -91,14 +91,17 @@ Linux AWS Power BI Tableau
 
 🥇 Java Basics – HackerRank
 
-📊 GitHub Analytics
+
+**📊 GitHub Analytics**
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact&theme=tokyonight)
 
 
 
+
 **📫 Connect With Me**
+
 
 📧 Email: adityajadhav3117@gmail.com
 
