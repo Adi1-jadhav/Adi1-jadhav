@@ -8,6 +8,7 @@ I am a passionate and growth-driven developer with strong foundations in Core Ja
 
 I enjoy building scalable systems, solving real-world problems, and integrating machine learning into web applications.
 
+
 🚀 About Me
 
 🎓 B.E. in Computer Engineering (2023–2026)
@@ -21,6 +22,7 @@ I enjoy building scalable systems, solving real-world problems, and integrating 
 🤖 Exploring AI-powered intelligent applications
 
 📍 Pune, Maharashtra, India
+
 
 🛠️ Tech Stack
 💻 Languages
@@ -46,38 +48,44 @@ Linux AWS Power BI Tableau
 ✔ ETL Concepts
 ✔ RESTful API Development
 
-🌟 Featured Projects
-🔹 Helping Hand Intelligent System
 
-Tech: Python, Flask, MySQL, Machine Learning
+**🌟 Featured Projects**
 
-Built a full-stack donation platform connecting NGOs and donors
+**🔹 Helping Hand Intelligent System**
 
-Implemented a Naive Bayes classifier for smart donation matching
+**Tech: Python, Flask, MySQL, Machine Learning**
 
-Designed secure authentication & modular backend architecture
+- Built a full-stack donation platform connecting NGOs and donors
 
-Developed responsive UI with real-time donation status handling
+- Implemented a Naive Bayes classifier for smart donation matching
 
-🔗 Add your repository link here
+- Designed secure authentication & modular backend architecture
 
-🔹 Payroll Management System
+- Developed responsive UI with real-time donation status handling
 
-Tech: Java, JDBC, MySQL
+🔗 https://github.com/Adi1-jadhav/DonateWise
 
-Automated salary calculation system for full-time & part-time employees
 
-Applied OOP principles for scalable system design
 
-Integrated MySQL using JDBC
+**🔹 Payroll Management System**
 
-Implemented CSV report generation for HR analytics
+**Tech: Java, JDBC, MySQL**
 
-Built GUI with role-based access control
+-Automated salary calculation system for full-time & part-time employees
 
-🔗 Add your repository link here
+-Applied OOP principles for scalable system design
 
-🏆 Certifications
+-Integrated MySQL using JDBC
+
+-Implemented CSV report generation for HR analytics
+
+-Built GUI with role-based access control
+
+🔗 https://github.com/Adi1-jadhav/Payroll-Management-System
+
+
+
+**🏆 Certifications**
 
 🥇 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 
@@ -87,10 +95,13 @@ Built GUI with role-based access control
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact&theme=tokyonight)
-📫 Connect With Me
+
+
+
+**📫 Connect With Me**
 
 📧 Email: adityajadhav3117@gmail.com
 
 🔗 LinkedIn: https://linkedin.com/in/aditya-jadhav-07b710259
 
-💻 GitHub: https://github.com/Adi1-jadhav
+💻 GitHub: https://github.com/Adi1-jadhav**
