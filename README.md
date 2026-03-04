@@ -106,10 +106,9 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Adi1-jadhav)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact)
-
 
 
 
