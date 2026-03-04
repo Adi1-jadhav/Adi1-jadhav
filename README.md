@@ -104,10 +104,11 @@
 🥇 Java Basics – HackerRank
 
 
-**📊 GitHub Analytics**
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight)
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact)
 
 
 
