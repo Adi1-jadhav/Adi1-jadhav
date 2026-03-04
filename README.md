@@ -4,12 +4,13 @@
 💻 Java & Backend Developer
 🤖 AI & Machine Learning Enthusiast
 
-I am a passionate and growth-driven developer with strong foundations in Core Java, Data Structures & Algorithms, Object-Oriented Programming, and Backend Development.
 
-I enjoy building scalable systems, solving real-world problems, and integrating machine learning into web applications.
+- I am a passionate and growth-driven developer with strong foundations in Core Java, Data Structures & Algorithms, Object-Oriented Programming, and Backend Development.
+
+- I enjoy building scalable systems, solving real-world problems, and integrating machine learning into web applications.
 
 
-🚀 About Me
+**🚀 About Me**
 
 🎓 B.E. in Computer Engineering (2023–2026)
 
@@ -24,10 +25,10 @@ I enjoy building scalable systems, solving real-world problems, and integrating 
 📍 Pune, Maharashtra, India
 
 
-🛠️ Tech Stack
-💻 Languages
+**🛠️ Tech Stack
+💻 Languages**
 
-Java Python SQL JavaScript HTML CSS
+- Java, - Python, - SQL, - JavaScript, - HTML, - CSS .
 
 ⚙️ Frameworks & Technologies
 
