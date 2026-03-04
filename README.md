@@ -97,11 +97,11 @@
 
 
 
-**🏆 Certifications**
+## 🏆 Certifications
 
-🥇 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- 🥇 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 
-🥇 Java Basics – HackerRank
+- 🥇 Java Basics – HackerRank
 
 
 
@@ -114,11 +114,10 @@
 
 
 
-**📫 Connect With Me**
+## 📫 Connect With Me
 
+- 📧 Email: adityajadhav3117@gmail.com
+ 
+- 🔗 LinkedIn: https://linkedin.com/in/aditya-jadhav-07b710259
 
-📧 Email: adityajadhav3117@gmail.com
-
-🔗 LinkedIn: https://linkedin.com/in/aditya-jadhav-07b710259
-
-💻 GitHub: https://github.com/Adi1-jadhav**
+- 💻 GitHub: https://github.com/Adi1-jadhav
