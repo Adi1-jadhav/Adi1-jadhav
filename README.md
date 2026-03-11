@@ -1,13 +1,19 @@
 # Aditya Jadhav — Aspiring Software Engineer 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:adityajadhav3117@gmail.com"><img src="https://img.shields.io/badge/Gmail-adityajadhav3117-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aditya-jadhav-3117"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://donatewise.vercel.app/"><img src="https://img.shields.io/badge/Live_Project-DonateWise-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:adityajadhav3117@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-jadhav-3117" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://donatewise.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Project-DonateWise-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Adi1-jadhav&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS" />
 </p>
 
@@ -15,14 +21,14 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
 - 🎓 **B.E. in Computer Engineering** — Dr. D. Y. Patil Institute of Technology, Pune (2022–2026)
-- 💡 Core focus on **Full-Stack Web Development**, **Artificial Intelligence**, and **Database Architecture**
-- 🤖 Built AI-powered platforms using Machine Learning to solve real-world donation logistics
-- 🌐 Passionate about building scalable, production-ready systems deployed on cloud platforms
-- 🤝 Always open to collaborating on innovative tech projects and hackathons
-- 📫 Reach me: [adityajadhav3117@gmail.com](mailto:adityajadhav3117@gmail.com)
+- 💡 Core focus on **Full-Stack Development**, **Artificial Intelligence**, and **Cloud Deployment**
+- 🤖 Built AI-powered production-grade platforms solving real-world logistics challenges
+- 🌐 Passionate about scalable, cloud-deployed, and user-centric software systems
+- 🤝 Open to collaborating on impactful projects, hackathons, and open-source contributions
+- 📫 **Email:** [adityajadhav3117@gmail.com](mailto:adityajadhav3117@gmail.com)
 
 <br clear="right"/>
 
@@ -37,7 +43,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -47,36 +53,37 @@
 
 ## 🏆 Featured Projects
 
-### 🧠 [DonateWise](https://github.com/Adi1-jadhav/donate_wise) — AI-Powered Donation Platform
-> A full-stack platform bridging the gap between donors and verified NGOs with real-time logistics tracking.
+### 🧠 [DonateWise](https://github.com/Adi1-jadhav/donate_wise) — AI-Powered NGO Donation Platform
 
-| | |
-|---|---|
-| **Tech Stack** | Python, Flask, MongoDB Atlas, Scikit-Learn, Cloudinary, Bootstrap, Vercel |
-| **AI Feature** | Naïve Bayes classifier auto-categorizes donations; smart pickup routing engine |
-| **Key Features** | Role-based auth (Donor/NGO/Admin), live tracking (Claimed→Dispatched→Fulfilled), HTML email notifications, gamified donor badges & certificates |
-| 🌍 **Live Demo** | [donatewise.vercel.app](https://donatewise.vercel.app/) |
+A full-stack donation management system connecting donors with verified NGOs through AI-driven categorization and transparent logistics tracking.
+
+- 🛠 **Tech Stack:** Python, Flask, MongoDB Atlas, Scikit-Learn, Cloudinary, Bootstrap, Vercel
+- 🤖 **AI Feature:** Naïve Bayes classifier auto-categorizes donations; smart rule-based pickup routing engine
+- 🔐 **Security:** Role-based authentication with Admin approval workflow for NGO onboarding
+- 📦 **Tracking:** End-to-end donation lifecycle — Pending → Claimed → Dispatched → Fulfilled
+- 🏅 **Gamification:** Donor impact badges, printable certificates, and live activity feeds
+- 🌍 **Live Demo:** [donatewise.vercel.app](https://donatewise.vercel.app/)
 
 ---
 
 ### 📚 [Course Recommender System](https://github.com/Adi1-jadhav/Course-Recommender-System) — Personalized Learning Engine
-> An intelligent system that recommends programming courses tailored to a student's career track.
 
-| | |
-|---|---|
-| **Tech Stack** | Python, Flask, Pandas, Cosine Similarity (ML), Bootstrap, Vercel |
-| **Key Features** | Domain-based filtering (AI, Web Dev, etc.), personalized recommendations, clean responsive UI |
-| 🌍 **Live Demo** | [course-recommender-system-five.vercel.app](https://course-recommender-system-five.vercel.app/) |
+An intelligent platform that recommends programming courses to students tailored to their specific career tracks and learning domains.
+
+- 🛠 **Tech Stack:** Python, Flask, Pandas, Cosine Similarity (ML), Bootstrap, Vercel  
+- 🎯 **Key Features:** Domain-based filtering (AI Engineering, Web Dev, etc.), personalized content recommendations
+- 📊 **ML Approach:** Content-based filtering using Cosine Similarity for accurate course matching
+- 🌍 **Live Demo:** [course-recommender-system-five.vercel.app](https://course-recommender-system-five.vercel.app/)
 
 ---
 
-### 🏢 [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master) — Enterprise HR Tool
-> A robust desktop application for managing employee records and payroll with secure SQL database integration.
+### 🏢 [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master) — Enterprise HR Desktop App
 
-| | |
-|---|---|
-| **Tech Stack** | Core Java, MySQL, JDBC, OOP Principles |
-| **Key Features** | Secure `PreparedStatement` data insertion, SQL exception handling, dynamic salary calculation, full CRUD operations |
+A robust enterprise-grade application for managing employee records, payroll, and secure database operations.
+
+- 🛠 **Tech Stack:** Core Java, MySQL, JDBC, Object-Oriented Programming (OOP)
+- 🔒 **Security:** Uses `PreparedStatement` for SQL injection-safe data insertion
+- 💰 **Features:** Dynamic salary computation, SQL exception handling, and complete CRUD employee management
 
 ---
 
