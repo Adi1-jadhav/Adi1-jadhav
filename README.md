@@ -40,7 +40,7 @@ A comprehensive AI-powered platform bridging the gap between generous donors and
 An intelligent learning companion tailored to recommend programming courses to students based on their specific career tracks and user domains.
 - **Tech Stack:** Python, Machine Learning (Pandas, Cosine Similarity), Flask, Vercel
 - **Key Features:** Organizes courses by advanced learning tracks (e.g., AI Engineering), dynamic UI rendering, and personalized content filtering to boost user productivity.
-- 🌍 **Live Demo:** (https://course-recommender-system-five.vercel.app/login?next=%2F)
+- 🌍 **Live Demo:** [course-recommender-system.vercel.app](https://course-recommender-system-five.vercel.app/)
 
 ### 🏢 Payroll Management System
 A robust data management application designed to efficiently handle employee records, salaries, and secure database transactions for an enterprise.
