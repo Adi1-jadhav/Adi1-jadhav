@@ -46,7 +46,7 @@ An intelligent learning companion tailored to recommend programming courses to s
 A robust data management application designed to efficiently handle employee records, salaries, and secure database transactions for an enterprise.
 - **Tech Stack:** Core Java, MySQL, JDBC, Object-Oriented Programming (OOP)
 - **Key Features:** Secure `PreparedStatement` data insertion, robust SQL exception handling, dynamic salary calculation, and full CRUD operations for employee management.
-- 🌍 **Live Demo:** [payroll-system.vercel.app](https://your-payroll-link.vercel.app/) *(Update this link)*
+- 🌍 **GitHub Link:** https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master
 
 ---
 
