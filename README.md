@@ -1,123 +1,64 @@
-## 👋 Hi, I'm Aditya Ranjit Jadhav
+# Hi there, I'm Aditya Jadhav 👋
 
-- 🎓 Computer Engineering Student
-- 💻 Java & Backend Developer
-- 🤖 AI & Machine Learning Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
-
-- I am a passionate and growth-driven developer with strong foundations in Core Java, Data Structures & Algorithms, Object-Oriented Programming, and Backend Development.
-
-- I enjoy building scalable systems, solving real-world problems, and integrating machine learning into web applications.
-
+I am a passionate Software Engineer who loves building scalable full-stack applications and integrating Artificial Intelligence to solve real-world problems.
 
 ## 🚀 About Me
 
-- 🎓 B.E. in Computer Engineering (2023–2026)
+- 🎓 Constantly learning new technologies and architectural patterns.
+- 💡 Interested in **Full-Stack Web Development**, **Machine Learning**, and **System Design**.
+- 🤝 Always open to collaborating on innovative tech projects and hackathons.
+- 📫 How to reach me: [adityajadhav3117@gmail.com](mailto:adityajadhav3117@gmail.com)
 
-- 💼 Java Intern – SDK Infotech Pvt. Ltd.
+## 💻 Tech Stack
 
-- 🧠 Strong in OOP, Multithreading, Collections & JDBC
+**Languages**: 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 🔍 Interested in Backend Engineering & System Design
+**Frontend**: 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
-- 🤖 Exploring AI-powered intelligent applications
+**Backend & Databases**: 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 📍 Pune, Maharashtra, India
+**Tools & ML**: 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
 
-## 🛠️ Tech Stack
-## 💻 Languages
+## 🏆 Featured Projects
 
--  Java
--  Python
--  SQL
--  C++
--  JavaScript
--  HTML
--  CSS .
+### [🧠 DonateWise](https://github.com/Adi1-jadhav/donate_wise)
+A comprehensive AI-powered platform bridging the gap between generous donors and NGOs. 
+- **Tech**: Flask, MongoDB, Scikit-Learn, Bootstrap, Cloudinary, Vercel
+- **Features**: Features a machine learning categorizer for donations, smart pickup routing, secure NGO onboarding, and a dynamic real-time tracking dashboard.
 
-## ⚙️ Frameworks & Technologies
+### [📚 Course Recommender System](https://github.com/Adi1-jadhav/Course-Recommender-System)
+An intelligent learning companion tailored to recommend programming courses based on user domains, boosting productivity and track-based learning.
 
-- Flask
-- Spring
-- JDBC
-- MySQL
-- MongoDB
-- Apache Spark
-- Databricks
+### ⛩️ Pilgrimage Tour System
+A scalable full-stack application featuring role-based authentication (Admin, Guide, User, Hotel Owner) implemented with React and optimized Flask APIs.
 
-## 📊 Libraries & Tools
+---
 
-- NumPy , Pandas , Scikit-learn,  TensorFlow
-- Git IntelliJ VS Code Eclipse
-- Linux AWS Power BI Tableau
+## 📈 GitHub Stats
 
-## 📚 Core Strengths
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=radium" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=radium" alt="Aditya's GitHub Streak" />
+</div>
 
-✔ Data Structures & Algorithms
-✔ Object-Oriented Programming
-✔ Backend Architecture Design
-✔ ETL Concepts
-✔ RESTful API Development
+<br>
 
-
-## 🌟 Featured Projects
-
-## 🔹 Helping Hand Intelligent System**
-
-## Tech: Python, Flask, MySQL, Machine Learning
-
-- Built a full-stack donation platform connecting NGOs and donors
-
-- Implemented a Naive Bayes classifier for smart donation matching
-
-- Designed secure authentication & modular backend architecture
-
-- Developed responsive UI with real-time donation status handling
-
-🔗 https://github.com/Adi1-jadhav/DonateWise
-
-
-
-## 🔹 Payroll Management System
-
-## Tech: Java, JDBC, MySQL
-
-- Automated salary calculation system for full-time & part-time employees
-
-- Applied OOP principles for scalable system design
-
-- Integrated MySQL using JDBC
-
-- Implemented CSV report generation for HR analytics
-
-- Built GUI with role-based access control
-
-🔗 https://github.com/Adi1-jadhav/Payroll-Management-System
-
-
-
-## 🏆 Certifications
-
-- 🥇 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-
-- 🥇 Java Basics – HackerRank
-
-
-
-## 🚀 Current Focus
-
-- Mastering Data Structures & Algorithms
-- Building scalable backend systems in Java
-- Designing AI-powered full-stack applications
-- Preparing for product-based company interviews
-
-
-
-## 📫 Connect With Me
-
-- 📧 Email: adityajadhav3117@gmail.com
- 
-- 🔗 LinkedIn: https://linkedin.com/in/aditya-jadhav-07b710259
-
-- 💻 GitHub: https://github.com/Adi1-jadhav
+<p align="center">
+  <em>Let's build something amazing together!</em>
+</p>
