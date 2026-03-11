@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:adityajadhav3117@gmail.com">
+  <a href="https://www.adityajadhav3117@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aditya-jadhav-07b710259" target="_blank">
