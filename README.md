@@ -84,7 +84,7 @@ A robust enterprise-grade application for managing employee records, payroll, an
 - 🛠 **Tech Stack:** Core Java, MySQL, JDBC, Object-Oriented Programming (OOP)
 - 🔒 **Security:** Uses `PreparedStatement` for SQL injection-safe data insertion
 - 💰 **Features:** Dynamic salary computation, SQL exception handling, and complete CRUD employee management
-
+- 🌍 **GitHub Demo:** (https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master)
 ---
 ## 📈 GitHub Analytics
 
