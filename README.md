@@ -1,15 +1,32 @@
-# Hi there, I'm Aditya Jadhav 👋
+# Aditya Jadhav — Aspiring Software Engineer 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+</p>
 
-I am a passionate Software Engineer who takes pride in building highly scalable full-stack applications and creating intelligent, data-driven systems. I enjoy solving complex problems through clean architecture and modern technology.
+<p align="center">
+  <a href="mailto:adityajadhav3117@gmail.com"><img src="https://img.shields.io/badge/Gmail-adityajadhav3117-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aditya-jadhav-3117"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://donatewise.vercel.app/"><img src="https://img.shields.io/badge/Live_Project-DonateWise-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Adi1-jadhav&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS" />
+</p>
 
-## 🚀 About Me
+---
 
-- 🎓 Constantly learning, experimenting with new technologies, and refining system architectures.
-- 💡 Core focus on **Full-Stack Web Development**, **Artificial Intelligence (ML)**, and **Database Architecture**.
-- 🤝 Always open to collaborating on innovative tech projects, hackathons, and open-source contributions.
-- 📫 Connect with me: [adityajadhav3117@gmail.com](mailto:adityajadhav3117@gmail.com)
+## 🧑‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+- 🎓 **B.E. in Computer Engineering** — Dr. D. Y. Patil Institute of Technology, Pune (2022–2026)
+- 💡 Core focus on **Full-Stack Web Development**, **Artificial Intelligence**, and **Database Architecture**
+- 🤖 Built AI-powered platforms using Machine Learning to solve real-world donation logistics
+- 🌐 Passionate about building scalable, production-ready systems deployed on cloud platforms
+- 🤝 Always open to collaborating on innovative tech projects and hackathons
+- 📫 Reach me: [adityajadhav3117@gmail.com](mailto:adityajadhav3117@gmail.com)
+
+<br clear="right"/>
+
+---
 
 ## 💻 Technical Arsenal
 
@@ -30,41 +47,49 @@ I am a passionate Software Engineer who takes pride in building highly scalable 
 
 ## 🏆 Featured Projects
 
-### 🧠 [DonateWise](https://github.com/Adi1-jadhav/donate_wise)
-A comprehensive AI-powered platform bridging the gap between generous donors and NGOs, ensuring secure and transparent charitable logistics.
-- **Tech Stack:** Python, Flask, MongoDB, Scikit-Learn, Cloudinary, HTML/CSS, Vercel
-- **Key Features:** Machine learning categorizer for donations, smart pickup routing, secure role-based NGO onboarding, and a dynamic real-time tracking dashboard.
-- 🌍 **Live Demo:** [donatewise.vercel.app](https://donatewise.vercel.app/)
+### 🧠 [DonateWise](https://github.com/Adi1-jadhav/donate_wise) — AI-Powered Donation Platform
+> A full-stack platform bridging the gap between donors and verified NGOs with real-time logistics tracking.
 
-### 📚 [Course Recommender System](https://github.com/Adi1-jadhav/Course-Recommender-System)
-An intelligent learning companion tailored to recommend programming courses to students based on their specific career tracks and user domains.
-- **Tech Stack:** Python, Machine Learning (Pandas, Cosine Similarity), Flask, Vercel
-- **Key Features:** Organizes courses by advanced learning tracks (e.g., AI Engineering), dynamic UI rendering, and personalized content filtering to boost user productivity.
-- 🌍 **Live Demo:** [course-recommender-system.vercel.app](https://course-recommender-system-five.vercel.app/)
+| | |
+|---|---|
+| **Tech Stack** | Python, Flask, MongoDB Atlas, Scikit-Learn, Cloudinary, Bootstrap, Vercel |
+| **AI Feature** | Naïve Bayes classifier auto-categorizes donations; smart pickup routing engine |
+| **Key Features** | Role-based auth (Donor/NGO/Admin), live tracking (Claimed→Dispatched→Fulfilled), HTML email notifications, gamified donor badges & certificates |
+| 🌍 **Live Demo** | [donatewise.vercel.app](https://donatewise.vercel.app/) |
 
-### 🏢 Payroll Management System
-A robust data management application designed to efficiently handle employee records, salaries, and secure database transactions for an enterprise.
-- **Tech Stack:** Core Java, MySQL, JDBC, Object-Oriented Programming (OOP)
-- **Key Features:** Secure `PreparedStatement` data insertion, robust SQL exception handling, dynamic salary calculation, and full CRUD operations for employee management.
-- 🌍 **GitHub Link:** https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master
+---
+
+### 📚 [Course Recommender System](https://github.com/Adi1-jadhav/Course-Recommender-System) — Personalized Learning Engine
+> An intelligent system that recommends programming courses tailored to a student's career track.
+
+| | |
+|---|---|
+| **Tech Stack** | Python, Flask, Pandas, Cosine Similarity (ML), Bootstrap, Vercel |
+| **Key Features** | Domain-based filtering (AI, Web Dev, etc.), personalized recommendations, clean responsive UI |
+| 🌍 **Live Demo** | [course-recommender-system-five.vercel.app](https://course-recommender-system-five.vercel.app/) |
+
+---
+
+### 🏢 [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master) — Enterprise HR Tool
+> A robust desktop application for managing employee records and payroll with secure SQL database integration.
+
+| | |
+|---|---|
+| **Tech Stack** | Core Java, MySQL, JDBC, OOP Principles |
+| **Key Features** | Secure `PreparedStatement` data insertion, SQL exception handling, dynamic salary calculation, full CRUD operations |
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=transparent&hide_border=true&title_color=4F46E5&icon_color=4F46E5&text_color=000000" alt="Aditya's GitHub Stats" />
-</div>
-<br>
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=transparent&hide_border=true&fire=4F46E5&ring=4F46E5" alt="Aditya's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=transparent&hide_border=true&title_color=4F46E5&icon_color=4F46E5&text_color=000000" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=transparent&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5" alt="GitHub Streak" />
 </div>
 
-<br>
+---
 
 <p align="center">
-  <em>Let's build something amazing together!</em>
+  <em>✨ Let's build something impactful together! ✨</em>
 </p>
-
-
-
