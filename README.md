@@ -67,6 +67,4 @@ A robust data management application designed to efficiently handle employee rec
 </p>
 
 
-<p align="center">
-  <em>Let's build something amazing together!</em>
-</p>
+
