@@ -8,7 +8,7 @@
   <a href="mailto:adityajadhav3117@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aditya-jadhav-3117" target="_blank">
+  <a href="[https://www.linkedin.com/in/aditya-jadhav-3117](https://www.linkedin.com/in/aditya-jadhav-07b710259)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://donatewise.vercel.app/" target="_blank">
