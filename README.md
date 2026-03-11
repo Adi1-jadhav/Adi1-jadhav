@@ -53,11 +53,19 @@ A robust data management application designed to efficiently handle employee rec
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=radium&hide_border=true" alt="Aditya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=radium&hide_border=true" alt="Aditya's GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=transparent&hide_border=true&title_color=4F46E5&icon_color=4F46E5&text_color=000000" alt="Aditya's GitHub Stats" />
+</div>
+<br>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=transparent&hide_border=true&fire=4F46E5&ring=4F46E5" alt="Aditya's GitHub Streak" />
 </div>
 
 <br>
+
+<p align="center">
+  <em>Let's build something amazing together!</em>
+</p>
+
 
 <p align="center">
   <em>Let's build something amazing together!</em>
