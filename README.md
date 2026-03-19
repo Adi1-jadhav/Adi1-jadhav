@@ -34,20 +34,22 @@
 
 ---
 
-## 💻 Technical Arsenal
+## 🔧 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**Languages:**  
+Python • Java • J2SE • J2EE • C++ • JavaScript • HTML5 • CSS3  
+
+**Frameworks & Tools:**  
+Flask • REST API • React.js • Vite • Tailwind CSS • Docker • JWT • Gmail SMTP • Git • GitHub • Render • Vercel  
+
+**Databases:**  
+MongoDB Atlas • MySQL • JDBC  
+
+**ML / AI:**  
+Scikit-Learn • NumPy • Pandas • Matplotlib • NLP  
+
+**Core Concepts:**  
+DSA • DBMS • Data Science • Machine Learning  
 
 ---
 
@@ -85,6 +87,21 @@ A robust enterprise-grade application for managing employee records, payroll, an
 - 🔒 **Security:** Uses `PreparedStatement` for SQL injection-safe data insertion
 - 💰 **Features:** Dynamic salary computation, SQL exception handling, and complete CRUD employee management
 - 🌍 **GitHub Demo:** [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master)
+
+---
+
+### 💸 [Smart AI Expense Tracker](https://github.com/Adi1-jadhav/Smart-AI-Expense-Tracker) — ML-Powered Personal Finance App
+
+A full-stack personal finance application with machine learning insights and predictions on spending behavior.
+
+- 🛠 **Tech Stack:** React.js, Vite, Tailwind CSS, Recharts, Python, Flask, JWT, MongoDB Atlas, NumPy, REST API, Vercel, Render.com  
+- 📊 **Features:**  
+  • Track daily income & expenses by category with monthly budget limits  
+  • Interactive charts for visualizing spending patterns using Recharts  
+  • ML-powered insights engine using Z-score analysis to detect unusual spending  
+  • Compares monthly trends and predicts end-of-month expenses intelligently  
+- 🔐 **Security:** JWT authentication for secure user sessions  
+- 🌍 **Deployment:** Frontend on Vercel, Backend on Render.com  
 
 ---
 
