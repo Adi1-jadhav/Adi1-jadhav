@@ -54,6 +54,10 @@
 ## 🏆 Featured Projects
 
 ### 🧠 [DonateWise](https://github.com/Adi1-jadhav/donate_wise) — AI-Powered NGO Donation Platform
+![GitHub stars](https://img.shields.io/github/stars/Adi1-jadhav/donate_wise?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Adi1-jadhav/donate_wise?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Adi1-jadhav/donate_wise)
+
 - 🛠 **Tech Stack:** Python, Flask, MongoDB Atlas, Scikit-Learn, Cloudinary, Bootstrap, Vercel  
 - 🤖 **AI Feature:** Naïve Bayes classifier auto-categorizes donations; smart pickup routing engine  
 - 🔐 **Security:** Role-based authentication with Admin approval workflow  
@@ -64,6 +68,10 @@
 ---
 
 ### 📚 [Course Recommender System](https://github.com/Adi1-jadhav/Course-Recommender-System) — Personalized Learning Engine
+![GitHub stars](https://img.shields.io/github/stars/Adi1-jadhav/Course-Recommender-System?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Adi1-jadhav/Course-Recommender-System?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Adi1-jadhav/Course-Recommender-System)
+
 - 🛠 **Tech Stack:** Python, Flask, Pandas, Cosine Similarity (ML), Bootstrap, Vercel  
 - 🎯 **Features:** Domain-based filtering, personalized recommendations  
 - 📊 **ML Approach:** Content-based filtering using Cosine Similarity  
@@ -72,6 +80,10 @@
 ---
 
 ### 🏢 [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master) — Enterprise HR Desktop App
+![GitHub stars](https://img.shields.io/github/stars/Adi1-jadhav/Payroll-Management-System?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Adi1-jadhav/Payroll-Management-System?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Adi1-jadhav/Payroll-Management-System)
+
 - 🛠 **Tech Stack:** Core Java, MySQL, JDBC, OOP  
 - 🔒 **Security:** SQL injection-safe with `PreparedStatement`  
 - 💰 **Features:** Dynamic salary computation, CRUD employee management  
@@ -84,7 +96,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&cache_seconds=60" alt="GitHub Stats" />
   <br><br>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5&cache_seconds=60" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5&cache_seconds=60" alt="GitHub Streak" />
 </div>
 
 ---
