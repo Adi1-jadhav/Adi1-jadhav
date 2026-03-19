@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.adityajadhav3117@gmail.com">
+  <a href="mailto:adityajadhav3117@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aditya-jadhav-07b710259" target="_blank">
@@ -84,14 +84,16 @@ A robust enterprise-grade application for managing employee records, payroll, an
 - 🛠 **Tech Stack:** Core Java, MySQL, JDBC, Object-Oriented Programming (OOP)
 - 🔒 **Security:** Uses `PreparedStatement` for SQL injection-safe data insertion
 - 💰 **Features:** Dynamic salary computation, SQL exception handling, and complete CRUD employee management
-- 🌍 **GitHub Demo:** (https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master)
+- 🌍 **GitHub Demo:** [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master)
+
 ---
+
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&cache_seconds=1800" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
@@ -99,10 +101,3 @@ A robust enterprise-grade application for managing employee records, payroll, an
 <p align="center">
   <em>✨ Let's build something impactful together! ✨</em>
 </p>
-
-
-
-
-
-
-
