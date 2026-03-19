@@ -24,9 +24,9 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
 - 🎓 **B.E. in Computer Engineering** — Dr. D. Y. Patil Institute of Technology, Pune (2022–2026)
-- 💡 Core focus on **Full-Stack Development**, **Artificial Intelligence**, and **Cloud Deployment**
-- 🤖 Built AI-powered production-grade platforms solving real-world logistics challenges
-- 🌐 Passionate about scalable, cloud-deployed, and user-centric software systems
+- 💡 Focus on **Full-Stack Development**, **Artificial Intelligence**, and **Cloud Deployment**
+- 🤖 Built AI-powered production-grade platforms solving real-world challenges
+- 🌐 Passionate about scalable, cloud-deployed, and user-centric systems
 - 🤝 Open to collaborating on impactful projects, hackathons, and open-source contributions
 - 📫 **Email:** [adityajadhav3117@gmail.com](mailto:adityajadhav3117@gmail.com)
 
@@ -54,36 +54,27 @@
 ## 🏆 Featured Projects
 
 ### 🧠 [DonateWise](https://github.com/Adi1-jadhav/donate_wise) — AI-Powered NGO Donation Platform
-
-A full-stack donation management system connecting donors with verified NGOs through AI-driven categorization and transparent logistics tracking.
-
-- 🛠 **Tech Stack:** Python, Flask, MongoDB Atlas, Scikit-Learn, Cloudinary, Bootstrap, Vercel
-- 🤖 **AI Feature:** Naïve Bayes classifier auto-categorizes donations; smart rule-based pickup routing engine
-- 🔐 **Security:** Role-based authentication with Admin approval workflow for NGO onboarding
-- 📦 **Tracking:** End-to-end donation lifecycle — Pending → Claimed → Dispatched → Fulfilled
-- 🏅 **Gamification:** Donor impact badges, printable certificates, and live activity feeds
-- 🌍 **Live Demo:** [donatewise.vercel.app](https://donatewise.vercel.app/)
+- 🛠 **Tech Stack:** Python, Flask, MongoDB Atlas, Scikit-Learn, Cloudinary, Bootstrap, Vercel  
+- 🤖 **AI Feature:** Naïve Bayes classifier auto-categorizes donations; smart pickup routing engine  
+- 🔐 **Security:** Role-based authentication with Admin approval workflow  
+- 📦 **Tracking:** End-to-end donation lifecycle management  
+- 🏅 **Gamification:** Donor badges, certificates, live activity feeds  
+- 🌍 **Live Demo:** [donatewise.vercel.app](https://donatewise.vercel.app)
 
 ---
 
 ### 📚 [Course Recommender System](https://github.com/Adi1-jadhav/Course-Recommender-System) — Personalized Learning Engine
-
-An intelligent platform that recommends programming courses to students tailored to their specific career tracks and learning domains.
-
 - 🛠 **Tech Stack:** Python, Flask, Pandas, Cosine Similarity (ML), Bootstrap, Vercel  
-- 🎯 **Key Features:** Domain-based filtering (AI Engineering, Web Dev, etc.), personalized content recommendations
-- 📊 **ML Approach:** Content-based filtering using Cosine Similarity for accurate course matching
-- 🌍 **Live Demo:** [course-recommender-system-five.vercel.app](https://course-recommender-system-five.vercel.app/)
+- 🎯 **Features:** Domain-based filtering, personalized recommendations  
+- 📊 **ML Approach:** Content-based filtering using Cosine Similarity  
+- 🌍 **Live Demo:** [course-recommender-system-five.vercel.app](https://course-recommender-system-five.vercel.app)
 
 ---
 
 ### 🏢 [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master) — Enterprise HR Desktop App
-
-A robust enterprise-grade application for managing employee records, payroll, and secure database operations.
-
-- 🛠 **Tech Stack:** Core Java, MySQL, JDBC, Object-Oriented Programming (OOP)
-- 🔒 **Security:** Uses `PreparedStatement` for SQL injection-safe data insertion
-- 💰 **Features:** Dynamic salary computation, SQL exception handling, and complete CRUD employee management
+- 🛠 **Tech Stack:** Core Java, MySQL, JDBC, OOP  
+- 🔒 **Security:** SQL injection-safe with `PreparedStatement`  
+- 💰 **Features:** Dynamic salary computation, CRUD employee management  
 - 🌍 **GitHub Demo:** [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master)
 
 ---
@@ -91,9 +82,9 @@ A robust enterprise-grade application for managing employee records, payroll, an
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&cache_seconds=60" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5&cache_seconds=60" alt="GitHub Streak" />
 </div>
 
 ---
