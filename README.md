@@ -51,53 +51,76 @@
 
 ---
 
-## 🏆 Featured Projects
+## 📂 Featured Projects
 
+### 📦 [ProdX: Product Management System](https://github.com/Adi1-jadhav/Product_Management_System) 
+> Premium full-stack inventory dashboard engineered with strict SOLID backend architecture and modern Glassmorphism UI.
 
+- Engineered with strict **SOLID design principles**, separating REST connections from Java business logic via interfaces.
+- Built a completely custom **Glassmorphism frontend** showcasing dynamic CSS gradients and staggering load animations.
+- Created a `@ControllerAdvice` **global exception handling net** intercepting bad queries for a bulletproof UX.
+- Safeguarded records using continuous **Jakarta Bean Validation** (`@NotNull`, `@NotBlank`) for flawless data integrity.
 
-### 🧠 [DonateWise](https://github.com/Adi1-jadhav/donate_wise) — AI-Powered NGO Donation Platform
-![GitHub stars](https://img.shields.io/github/stars/Adi1-jadhav/donate_wise?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Adi1-jadhav/donate_wise?style=social)
-
-- 🛠 **Tech Stack:** Python, Flask, MongoDB Atlas, Scikit-Learn, Vercel  
-- 🤖 **AI Feature:** Naïve Bayes classifier auto-categorizes donations; smart pickup routing engine  
-- 🔐 **Security:** Role-based authentication with Admin approval workflow  
-- 📦 **Tracking:** End-to-end donation lifecycle management 
-- 🌍 **Live Demo:** [donatewise.vercel.app](https://donatewise.vercel.app)
-
----
-
-### 📚 [Course Recommender System](https://github.com/Adi1-jadhav/Course-Recommender-System) — Personalized Learning Engine
-![GitHub stars](https://img.shields.io/github/stars/Adi1-jadhav/Course-Recommender-System?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Adi1-jadhav/Course-Recommender-System?style=social)
-
-- 🛠 **Tech Stack:** Python, Flask, Pandas, ML (Cosine Similarity), Bootstrap  
-- 🎯 **Features:** Domain-based filtering, personalized recommendations  
-- 📊 **ML Approach:** Content-based filtering using Cosine Similarity  
-- 🌍 **Live Demo:** [course-recommender-system-five.vercel.app](https://course-recommender-system-five.vercel.app)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vanilla%20CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
 
 ---
 
-### 📦 [ProdX - Product Management System](https://github.com/Adi1-jadhav/Product_Management_System) — Premium Spring Boot Dashboard
-![GitHub stars](https://img.shields.io/github/stars/Adi1-jadhav/Product_Management_System?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Adi1-jadhav/Product_Management_System?style=social)
+### 🧠 [DonateWise: AI-Powered Platform](https://donatewise.vercel.app/) 
+> Intelligent NGO donation platform resolving category routing using Machine Learning classification algorithms.
 
-- 🛠 **Tech Stack:** Java 21, Spring Boot 3, Spring Data JPA, MySQL, Thymeleaf  
-- 🏗 **Architecture:** Engineered with strict SOLID design principles, breaking controller logic into isolated Service Providers.
-- 🎨 **UI/UX:** Built a completely custom Glassmorphism frontend showcasing dynamic CSS gradients and staggering load animations.
-- 🛡️ **Integrity:** Created a `@ControllerAdvice` global exception handling net and Jakarta Bean Validation (`@NotNull`, `@NotBlank`) to safeguard database records.
-- 🌍 **GitHub Repo:** [Product Management System](https://github.com/Adi1-jadhav/Product_Management_System)
+- Deployed a **Naïve Bayes classifier** to auto-categorize incoming donations and a smart pickup routing engine.
+- Leveraged **Role-based Authentication** creating isolated portals for administration approval workflows.
+- Fully automated **End-to-End tracking** managing the complete donation lifecycle mapped to MongoDB.
+- Implemented **Gamification systems** providing donors with virtual badges, certificates, and live activity feeds.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
-### 🏢 [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System) — Enterprise HR Desktop App
-![GitHub stars](https://img.shields.io/github/stars/Adi1-jadhav/Payroll-Management-System?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Adi1-jadhav/Payroll-Management-System?style=social)
+### 📚 [Course Recommender System](https://course-recommender-system-five.vercel.app/) 
+> Personalized learning engine utilizing content-based ML analysis to suggest hyper-relevant domains.
 
-- 🛠 **Tech Stack:** Core Java, MySQL, JDBC, OOP Fundamentals  
-- 🔒 **Security:** SQL injection-safe with `PreparedStatement` boundaries  
-- 💰 **Features:** Dynamic salary computations and full CRUD employee management  
-- 🌍 **GitHub Demo:** [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System)
+- Designed an intelligent **Content-based Filtering** algorithm analyzing data via mathematical Cosine Similarity.
+- Engineered efficient matrix manipulation and parsing utilizing the **Pandas dataframe** ecosystem.
+- Provided highly scalable and responsive **Domain-based filtering** logic for customized user recommendations.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+### 🏢 [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System) 
+> Enterprise HR desktop application executing secure salary computations and robust employee monitoring.
+
+- Enforced **SQL injection immunity** by wrapping all database transactions securely through `PreparedStatement` interfaces.
+- Implemented sophisticated **Object-Oriented Programming (OOP)** rules bridging the UI code layer with the backend logic.
+- Managed **dynamic salary computations** alongside highly concurrent CRUD queries tracking active employees.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desktop%20UI-A9A9A9?style=flat&logo=windows&logoColor=white" />
+</p>
 
 ---
 
