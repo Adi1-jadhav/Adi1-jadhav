@@ -37,15 +37,15 @@
 ## 💻 Technical Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -53,16 +53,16 @@
 
 ## 🏆 Featured Projects
 
+
+
 ### 🧠 [DonateWise](https://github.com/Adi1-jadhav/donate_wise) — AI-Powered NGO Donation Platform
 ![GitHub stars](https://img.shields.io/github/stars/Adi1-jadhav/donate_wise?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Adi1-jadhav/donate_wise?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Adi1-jadhav/donate_wise)
 
-- 🛠 **Tech Stack:** Python, Flask, MongoDB Atlas, Scikit-Learn, Cloudinary, Bootstrap, Vercel  
+- 🛠 **Tech Stack:** Python, Flask, MongoDB Atlas, Scikit-Learn, Vercel  
 - 🤖 **AI Feature:** Naïve Bayes classifier auto-categorizes donations; smart pickup routing engine  
 - 🔐 **Security:** Role-based authentication with Admin approval workflow  
-- 📦 **Tracking:** End-to-end donation lifecycle management  
-- 🏅 **Gamification:** Donor badges, certificates, live activity feeds  
+- 📦 **Tracking:** End-to-end donation lifecycle management 
 - 🌍 **Live Demo:** [donatewise.vercel.app](https://donatewise.vercel.app)
 
 ---
@@ -70,24 +70,34 @@
 ### 📚 [Course Recommender System](https://github.com/Adi1-jadhav/Course-Recommender-System) — Personalized Learning Engine
 ![GitHub stars](https://img.shields.io/github/stars/Adi1-jadhav/Course-Recommender-System?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Adi1-jadhav/Course-Recommender-System?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Adi1-jadhav/Course-Recommender-System)
 
-- 🛠 **Tech Stack:** Python, Flask, Pandas, Cosine Similarity (ML), Bootstrap, Vercel  
+- 🛠 **Tech Stack:** Python, Flask, Pandas, ML (Cosine Similarity), Bootstrap  
 - 🎯 **Features:** Domain-based filtering, personalized recommendations  
 - 📊 **ML Approach:** Content-based filtering using Cosine Similarity  
 - 🌍 **Live Demo:** [course-recommender-system-five.vercel.app](https://course-recommender-system-five.vercel.app)
 
 ---
 
-### 🏢 [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master) — Enterprise HR Desktop App
+### 📦 [ProdX - Product Management System](https://github.com/Adi1-jadhav/Product_Management_System) — Premium Spring Boot Dashboard
+![GitHub stars](https://img.shields.io/github/stars/Adi1-jadhav/Product_Management_System?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Adi1-jadhav/Product_Management_System?style=social)
+
+- 🛠 **Tech Stack:** Java 21, Spring Boot 3, Spring Data JPA, MySQL, Thymeleaf  
+- 🏗 **Architecture:** Engineered with strict SOLID design principles, breaking controller logic into isolated Service Providers.
+- 🎨 **UI/UX:** Built a completely custom Glassmorphism frontend showcasing dynamic CSS gradients and staggering load animations.
+- 🛡️ **Integrity:** Created a `@ControllerAdvice` global exception handling net and Jakarta Bean Validation (`@NotNull`, `@NotBlank`) to safeguard database records.
+- 🌍 **GitHub Repo:** [Product Management System](https://github.com/Adi1-jadhav/Product_Management_System)
+
+---
+
+### 🏢 [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System) — Enterprise HR Desktop App
 ![GitHub stars](https://img.shields.io/github/stars/Adi1-jadhav/Payroll-Management-System?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Adi1-jadhav/Payroll-Management-System?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Adi1-jadhav/Payroll-Management-System)
 
-- 🛠 **Tech Stack:** Core Java, MySQL, JDBC, OOP  
-- 🔒 **Security:** SQL injection-safe with `PreparedStatement`  
-- 💰 **Features:** Dynamic salary computation, CRUD employee management  
-- 🌍 **GitHub Demo:** [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System/tree/master)
+- 🛠 **Tech Stack:** Core Java, MySQL, JDBC, OOP Fundamentals  
+- 🔒 **Security:** SQL injection-safe with `PreparedStatement` boundaries  
+- 💰 **Features:** Dynamic salary computations and full CRUD employee management  
+- 🌍 **GitHub Demo:** [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System)
 
 ---
 
