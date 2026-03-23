@@ -53,7 +53,24 @@
 
 ## 📂 Featured Projects
 
+### 📦 [ProdX: Product Management System](https://github.com/Adi1-jadhav/Product_Management_System) 
+> Premium full-stack inventory dashboard engineered with strict SOLID backend architecture and modern Glassmorphism UI.
 
+- Engineered with strict **SOLID design principles**, separating REST connections from Java business logic via interfaces.
+- Built a completely custom **Glassmorphism frontend** showcasing dynamic CSS gradients and staggering load animations.
+- Created a `@ControllerAdvice` **global exception handling net** intercepting bad queries for a bulletproof UX.
+- Safeguarded records using continuous **Jakarta Bean Validation** (`@NotNull`, `@NotBlank`) for flawless data integrity.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vanilla%20CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+---
 
 ### 🧠 [DonateWise: AI-Powered Platform](https://donatewise.vercel.app/) 
 > Intelligent NGO donation platform resolving category routing using Machine Learning classification algorithms.
@@ -70,25 +87,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-</p>
-
----
-
-### 📦 [ProdX: Product Management System](https://github.com/Adi1-jadhav/Product_Management_System) 
-> Premium full-stack inventory dashboard engineered with strict SOLID backend architecture and modern Glassmorphism UI.
-
-- Engineered with strict **SOLID design principles**, separating REST connections from Java business logic via interfaces.
-- Built a completely custom **Glassmorphism frontend** showcasing dynamic CSS gradients and staggering load animations.
-- Created a `@ControllerAdvice` **global exception handling net** intercepting bad queries for a bulletproof UX.
-- Safeguarded records using continuous **Jakarta Bean Validation** (`@NotNull`, `@NotBlank`) for flawless data integrity.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vanilla%20CSS-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
 ---
@@ -130,6 +128,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&cache_seconds=60" alt="GitHub Stats" />
+  <br><br>
+  <!-- New Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&cache_seconds=60" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5&cache_seconds=60" alt="GitHub Streak" />
 </div>
