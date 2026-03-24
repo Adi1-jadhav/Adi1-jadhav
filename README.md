@@ -134,12 +134,17 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&cache_seconds=60&v=1" alt="GitHub Stats" />
-  <br><br>
-  <!-- New Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&cache_seconds=60&v=1" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5&cache_seconds=60&v=1" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&cache_seconds=1800&v=2" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&langs_count=6&cache_seconds=1800&v=2" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5" />
+
 </div>
 
 ---
