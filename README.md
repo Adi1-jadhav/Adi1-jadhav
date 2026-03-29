@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver+%7C+Open+Source+Contributor" alt="Typing SVG" />
-</p> 
+</p>
 
 <p align="center">
   <a href="mailto:adityajadhav3117@gmail.com">
@@ -53,9 +53,26 @@
 
 ## 📂 Featured Projects
 
+### 🚆 [Railway Reservation System](https://github.com/Adi1-jadhav/railway-reservation)
+> Production-style Railway Reservation System built with 5 Spring Boot microservices, API Gateway routing, Eureka service discovery, stateless JWT auth, and a React + Vite frontend.
 
+- Architected **5 independent Spring Boot microservices** — Auth, Train, Booking, API Gateway, and Eureka Discovery Server.
+- Implemented **Spring Cloud Gateway** with path-based routing and **Eureka** for dynamic service discovery with load balancing.
+- Secured the system with **stateless JWT authentication** (HS256) and BCrypt password hashing via Spring Security.
+- Built a responsive **React + Vite** frontend with Axios interceptors for automatic token attachment on every request.
 
-### 🧠 [DonateWise: AI-Powered Platform](https://donatewise.vercel.app/) 
+<p align="left">
+  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+---
+
+### 🧠 [DonateWise: AI-Powered Platform](https://donatewise.vercel.app/)
 > Intelligent NGO donation platform resolving category routing using Machine Learning classification algorithms.
 
 - Deployed a **Naïve Bayes classifier** to auto-categorize incoming donations and a smart pickup routing engine.
@@ -74,7 +91,7 @@
 
 ---
 
-### 📦 [ProdX: Product Management System](https://github.com/Adi1-jadhav/Product_Management_System) 
+### 📦 [ProdX: Product Management System](https://github.com/Adi1-jadhav/Product_Management_System)
 > Premium full-stack inventory dashboard engineered with strict SOLID backend architecture and modern Glassmorphism UI.
 
 - Engineered with strict **SOLID design principles**, separating REST connections from Java business logic via interfaces.
@@ -93,7 +110,7 @@
 
 ---
 
-### 📚 [Course Recommender System](https://course-recommender-system-five.vercel.app/) 
+### 📚 [Course Recommender System](https://course-recommender-system-five.vercel.app/)
 > Personalized learning engine utilizing content-based ML analysis to suggest hyper-relevant domains.
 
 - Designed an intelligent **Content-based Filtering** algorithm analyzing data via mathematical Cosine Similarity.
@@ -110,7 +127,7 @@
 
 ---
 
-### 🏢 [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System) 
+### 🏢 [Payroll Management System](https://github.com/Adi1-jadhav/Payroll-Management-System)
 > Enterprise HR desktop application executing secure salary computations and robust employee monitoring.
 
 - Enforced **SQL injection immunity** by wrapping all database transactions securely through `PreparedStatement` interfaces.
@@ -126,21 +143,19 @@
 
 ---
 
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&cache_seconds=1800&v=2" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&count_private=true&include_all_commits=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&langs_count=6&cache_seconds=1800&v=2" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact&theme=tokyonight&hide_border=true&title_color=4F46E5&langs_count=8" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5" />
+<img src="https://streak-stats.demolab.com?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5" />
 
 </div>
 
@@ -149,5 +164,3 @@
 <p align="center">
   <em>✨ Let's build something impactful together! ✨</em>
 </p>
-
-
