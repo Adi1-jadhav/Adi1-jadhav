@@ -29,6 +29,11 @@
 - 🌐 Passionate about scalable, cloud-deployed, and user-centric systems
 - 🤝 Open to collaborating on impactful projects, hackathons, and open-source contributions
 - 📫 **Email:** [adityajadhav3117@gmail.com](mailto:adityajadhav3117@gmail.com)
+- <p align="center">
+  <a href="https://adi1-jadhav.github.io/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge" />
+  </a>
+</p>
 
 <br clear="right"/>
 
