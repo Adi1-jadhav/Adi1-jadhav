@@ -163,7 +163,7 @@
 
   <img src="https://github-profile-trophy.vercel.app/?username=Adi1-jadhav&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 
-<br/><br/>
+<br/><br/> 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi1-jadhav&theme=tokyo-night&hide_border=true&area=true&color=4F46E5&line=4F46E5&point=ffffff" />
 
