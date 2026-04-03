@@ -148,24 +148,11 @@
 
 ---
 ## 📈 GitHub Analytics
-
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi1-jadhav&show_icons=true&theme=tokyonight&hide_border=true&title_color=4F46E5&icon_color=4F46E5&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi1-jadhav&layout=compact&theme=tokyonight&hide_border=true&title_color=4F46E5&langs_count=8" height="180"/>
-
-<br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5&sideLabels=4F46E5" />
-
-<br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Adi1-jadhav&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-
-<br/><br/> 
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi1-jadhav&theme=tokyo-night&hide_border=true&area=true&color=4F46E5&line=4F46E5&point=ffffff" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adi1-jadhav&theme=tokyonight" />
+<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adi1-jadhav&theme=tokyonight" />
+<br><br>
+<img src="https://streak-stats.demolab.com?user=Adi1-jadhav&theme=tokyonight&hide_border=true&fire=4F46E5&ring=4F46E5&currStreakLabel=4F46E5" />
 </div>
 
